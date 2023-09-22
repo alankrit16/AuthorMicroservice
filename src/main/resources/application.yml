@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+spring:
+  data:
+    mongodb:
+      host: localhost           # MongoDB Host
+      port: 27017              # MongoDB Port
+      database: UsersDatabase
